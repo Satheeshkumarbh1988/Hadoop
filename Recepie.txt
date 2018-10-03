@@ -2,3 +2,7 @@ welcome
 Hadoop
 spark
 scala
+hive
+pig
+sqoop
+hdfs
