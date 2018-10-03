@@ -6,3 +6,6 @@ hive
 pig
 sqoop
 hdfs
+
+
+thank you
